@@ -1,4 +1,4 @@
 # mineria_datos
 Detección de acción coordinada
 
-No funca porque pide 8 teras de espacio ojo
+reduce el tamaño de la cantidad de tweets para que funcione (20k), con gpu quiza se pueden más
